@@ -1,0 +1,5 @@
+---
+- src: https://github.com/xussof/software_jenkins
+  scm: git
+  version: master
+  name: xussof.software_jenkins
