@@ -1,6 +1,6 @@
 ---
 dependencies:
-  - src: https://github.com/xussof/software_jenkins
+  - src: git@github.com:xussof/software_jenkins
     scm: git
     version: master
     name: xussof.software_jenkins
